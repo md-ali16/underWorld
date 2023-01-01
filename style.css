@@ -126,7 +126,7 @@ img {
     position: absolute;
     top: -8px;
     right: 34px;
-    z-index: 0;
+    z-index: 1;
 }
 
 .discunt-circle-inner {
